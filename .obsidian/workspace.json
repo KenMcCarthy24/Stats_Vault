@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "6ff7b4cf6eaef3dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "25acc0ea8b713b90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e081549a4a8d9e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Statistics/Probability Distributions/Continuous/Beta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beta"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f067e7156ffecb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "142d4a624f5a47a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83e0eacea5ed8f90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5c52df5e7b330f5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c0ca10ae613589ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "378ef199bf870a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5d9ea6ba39eaa4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4fcdf354d8b210",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Statistics/Probability Distributions/Continuous/Beta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "112b1974dda1f273",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Statistics/Probability Distributions/Continuous/Beta.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e22671851f13a1c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6eab90966a3d972",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b65aa0ece57fe427",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Statistics/Probability Distributions/Continuous/Beta.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e081549a4a8d9e1a",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "01_Statistics/Probability/Continuous Probability Distributions.md",
+    "01_Statistics/Probability/Bayes' Theorem.md",
+    "Welcome.md",
+    "Callouts.md",
+    "04_Templates/Probability Distribution Template.md",
+    "04_Templates/Global template.md",
+    "04_Templates",
+    "03_Uncategorized Notes/Markov Models/attachments/markov_example.png",
+    "03_Uncategorized Notes/Markov Models/attachments/hidden_markov_example_graph.png",
+    "03_Uncategorized Notes/Markov Models/Markov Chain.md",
+    "03_Uncategorized Notes/Markov Models/Viterbi Algorithm.md",
+    "03_Uncategorized Notes/Markov Models/Hidden Markov Model.md",
+    "03_Uncategorized Notes/Markov Models/Forward Algorithm.md",
+    "03_Uncategorized Notes/Markov Models/attachments",
+    "03_Uncategorized Notes/Softmax.md",
+    "03_Uncategorized Notes/Named Entity Recognition.md",
+    "03_Uncategorized Notes/Markov Models",
+    "03_Uncategorized Notes/Haversine Distance.md",
+    "03_Uncategorized Notes",
+    "02_Machine Learning/Linear Models/Shrinkage Models/attachments/lasso_regression_geometry.svg",
+    "02_Machine Learning/Linear Models/Shrinkage Models/attachments/ridge_regression_geometry.svg",
+    "02_Machine Learning/Linear Models/Shrinkage Models/attachments/elastic_net_geometry.svg",
+    "02_Machine Learning/Linear Models/Linear Regression/attachments/regression_normality_tests.svg",
+    "02_Machine Learning/Linear Models/Linear Regression/attachments/regression_linearity_tests.svg",
+    "02_Machine Learning/Linear Models/Linear Regression/attachments/regression_independence_tests.svg",
+    "02_Machine Learning/Linear Models/Linear Regression/attachments/regression_homoscedasticity_tests.svg",
+    "02_Machine Learning/Tree Based Models/attachments/Tree Region Diagram 2.png",
+    "02_Machine Learning/Linear Models/Shrinkage Models/Shrinkage Models.md",
+    "02_Machine Learning/Linear Models/Shrinkage Models/Ridge Regression.md",
+    "02_Machine Learning/Linear Models/Shrinkage Models/Lasso Regression.md",
+    "02_Machine Learning/Linear Models/Shrinkage Models/Elastic Net.md",
+    "02_Machine Learning/Linear Models/Shrinkage Models/attachments",
+    "02_Machine Learning/Linear Models/Linear Regression/Ordinary Least Squares (OLS).md",
+    "02_Machine Learning/Linear Models/Linear Regression/Linear Regression Inference.md",
+    "02_Machine Learning/Linear Models/Linear Regression/Linear Regression.md",
+    "02_Machine Learning/Linear Models/Linear Regression/Linear Regression Assumptions.md",
+    "02_Machine Learning/Linear Models/Linear Regression/Leverage and Influence.md",
+    "02_Machine Learning/Linear Models/Linear Regression/attachments",
+    "02_Machine Learning/Linear Models/attachments/logistic regression.py",
+    "02_Machine Learning/Tree Based Models/Random Forest.md",
+    "02_Machine Learning/Tree Based Models/Decision Trees.md",
+    "02_Machine Learning/Tree Based Models/attachments",
+    "02_Machine Learning/Other Models/Naïve Bayes.md",
+    "02_Machine Learning/Linear Models/Shrinkage Models",
+    "02_Machine Learning/Linear Models/Linear Regression"
+  ]
+}
